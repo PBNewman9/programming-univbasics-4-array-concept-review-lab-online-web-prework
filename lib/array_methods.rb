@@ -8,6 +8,8 @@ def find_element_index(array, value_to_find)
 end
 
 
+
+
 describe 'Finding data' do
 
   scale = [2,3,4,5]
